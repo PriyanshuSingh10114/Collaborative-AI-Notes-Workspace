@@ -63,8 +63,8 @@ A modern, production-ready SaaS application for collaborative AI-powered note-ta
 
 ### 1. Clone the repository
 ```bash
-git clone <repository-url>
-cd peblo-sas-group
+git clone https://github.com/PriyanshuSingh10114/Collaborative-AI-Notes-Workspace.git
+cd Collaborative-AI-Notes-Workspace
 ```
 
 ### 2. Backend Setup
