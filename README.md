@@ -2,6 +2,8 @@
 
 A modern, production-ready SaaS application for collaborative AI-powered note-taking. Built for a Full Stack Developer Internship evaluation.
 
+Demo Video: 
+
 ## Features
 
 - **Authentication & Security:** Secure JWT-based authentication with password hashing (bcrypt), HTTP-only cookies/headers, rate limiting, and Helmet.
